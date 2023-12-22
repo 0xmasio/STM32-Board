@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=Ethernet.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=FDCAN&QSPI.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=MCU176_1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=MCU176_2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=OpticDiodes+LEDs.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=Power.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=SD card.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=USB_OTG_FS.SchDoc|SheetNumber=9
